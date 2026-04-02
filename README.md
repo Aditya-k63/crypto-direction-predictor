@@ -57,6 +57,10 @@ crypto_project/
     requirements.txt   — dependencies
     .env               — credentials (not pushed)
 ```
+## 📸 Demo
+
+![Demo](./assets/demo1.png)
+![Demo](./assets/demo2.png)
 
 ## Setup
 
